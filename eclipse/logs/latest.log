@@ -1,0 +1,30 @@
+[12:40:31] [main/INFO]: Logging in with username & password
+[12:40:34] [main/INFO]: Setting user: Raev82
+[12:40:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:40:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[12:40:42] [Sound Library Loader/INFO]: Sound engine started
+[12:40:43] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:40:43] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:40:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[12:40:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:40:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:40:44] [Sound Library Loader/INFO]: Sound engine started
+[12:40:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:40:47] [Server thread/INFO]: Generating keypair
+[12:40:47] [Server thread/INFO]: Preparing start region for level 0
+[12:40:48] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:40:48] [Server thread/INFO]: Raev82[local:E:f3c089de] logged in with entity id 216 at (677.3781459834443, 4.0, -1103.2772422879143)
+[12:40:48] [Server thread/INFO]: Raev82 joined the game
+[12:40:51] [Server thread/INFO]: Raev82 has just earned the achievement [Taking Inventory]
+[12:40:51] [Client thread/INFO]: [CHAT] Raev82 has just earned the achievement [Taking Inventory]
+[12:40:56] [Server thread/INFO]: Saving and pausing game...
+[12:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:40:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:40:57] [Server thread/INFO]: Stopping server
+[12:40:57] [Server thread/INFO]: Saving players
+[12:40:57] [Server thread/INFO]: Saving worlds
+[12:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:40:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:40:58] [Client thread/INFO]: Stopping!
