@@ -1,6 +1,6 @@
 package com.raev82.letsmodreboot.block;
 
-import assets.letsmodreboot.creativetab.CreativeTabLMRB;
+import com.raev82.letsmodreboot.creativetab.CreativeTabLMRB;
 import com.raev82.letsmodreboot.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

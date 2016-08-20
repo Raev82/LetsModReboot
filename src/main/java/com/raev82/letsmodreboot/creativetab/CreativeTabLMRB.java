@@ -1,4 +1,4 @@
-package assets.letsmodreboot.creativetab;
+package com.raev82.letsmodreboot.creativetab;
 
 import com.raev82.letsmodreboot.init.ModItems;
 import com.raev82.letsmodreboot.reference.Reference;
